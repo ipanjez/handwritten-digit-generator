@@ -23,7 +23,7 @@ wheels/
 # PyTorch (keep generator_mnist.pth for this project)
 # *.pth
 # *.pt
-
+#memew
 # Virtual Environment
 venv/
 env/
